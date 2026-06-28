@@ -1,0 +1,1 @@
+this mod removes the useless more games button in the home screen.
